@@ -1,0 +1,40 @@
+body {
+  background: cornflowerblue !important;
+}
+img {
+  display: block;
+  margin: 0 0 auto;
+  max-width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+h1 {
+  color: #fff;
+  text-align: center;
+}
+a {
+  color: #fff !important;
+  text-align: center;
+}
+
+a:hover {
+  color: #fff;
+}
+p {
+  text-align: center;
+  color: #fff;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.title {
+  padding-top: 20px;
+}
+.btn-purple {
+  background: lavender;
+  color: #333;
+  border: none;
+  border-radius: 5px;
+}
+.btntext {
+  color: #333 !important;
+}
